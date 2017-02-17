@@ -4,7 +4,7 @@ subtitle: by MeasureAid
 email: service@measureaid.com
 description: 메져에이드 기술 블로그입니다.
 baseurl: ""
-url: "http://measureaid.github.com"
+url: "http://measureaid.github.io"
 paginate: 10
 gems: [jekyll-paginate]
 subscribe_rss: /atom.xml
