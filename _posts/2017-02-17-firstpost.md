@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MeasureAid 기술 블로그를 오픈합니다.
+title: MeasureAid 기술 블로그를 오픈합니다.2
 author: 김태영
 author-email: cto@measureaid.com
 description: 메져에이드에서 기술 블로그를 오픈합니다.
